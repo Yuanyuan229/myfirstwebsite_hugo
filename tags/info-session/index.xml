@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Info Session on Yuanyuan Ge</title>
+    <link>https://yuanyuan229.github.io/tags/info-session/</link>
+    <description>Recent content in Info Session on Yuanyuan Ge</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Yuanyuan GE 2020</copyright>
+    <lastBuildDate>Thu, 13 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://yuanyuan229.github.io/tags/info-session/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pinterest</title>
+      <link>https://yuanyuan229.github.io/pinterest/</link>
+      <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuanyuan229.github.io/pinterest/</guid>
+      <description>Pinterest This is the note of a Pinterest info session hosted by UC Davis MSBA.
+user oriented
+ownership
+ inclusive product  2 examples
+change the color of &amp;lsquo;saved&amp;rsquo; notification at the bottom
+select skin tone range (hear from users, 2 interns shared the same experience, improved the product, launch, positive user feedback) (要用ml做image recognization 和 classification)
+URG: under represented group
+ inclusive ML  BIAS in AI
+ML recommendation</description>
+    </item>
+    
+  </channel>
+</rss>

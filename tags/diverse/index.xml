@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>diverse on Yuanyuan Ge</title>
+    <link>https://yuanyuan229.github.io/tags/diverse/</link>
+    <description>Recent content in diverse on Yuanyuan Ge</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Yuanyuan GE 2020</copyright>
+    <lastBuildDate>Sun, 13 May 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://yuanyuan229.github.io/tags/diverse/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello world!</title>
+      <link>https://yuanyuan229.github.io/hello-world/</link>
+      <pubDate>Sun, 13 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuanyuan229.github.io/hello-world/</guid>
+      <description>I took time this week-end to set up Jekyll to blog like an hacker :) I tried Octopress on Heroku. It works good but it&amp;rsquo;s &amp;ldquo;less&amp;rdquo; flexible than the original one. It was a good way to use Ruby again.
+hello world!!! You can find the entire source code of sbin.dk in Github. A lot of improvements will come later like Twitter feed, better standards with Media Queries, Microdata, WAI-ARIA and CORS&amp;hellip; Maybe a bit with the responsive design too.</description>
+    </item>
+    
+  </channel>
+</rss>
